@@ -63,7 +63,8 @@ Select Option
 
 ## 🖥️ Project Output
 
-(Output.png)
+<img width="1063" height="935" alt="Output" src="https://github.com/user-attachments/assets/fef14450-a6cd-4da0-ad3c-6a35e7e2bd73" />
+
 
 ------------------------------------------------------------------------
 
