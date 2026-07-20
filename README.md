@@ -1,1 +1,0 @@
-# Collection-Manipulator-using-python
